@@ -1,4 +1,4 @@
-anodenascimento = int(input('Ano de nascimento: ')) #idade
+anodenascimento = int(input('Ano de nascimento: '))
 idade = 2022 - anodenascimento
 print(idade , "anos")
 
