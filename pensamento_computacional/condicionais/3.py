@@ -5,6 +5,6 @@ sexom = "masculino"
 sexof = "feminino"
 
 if sexo == "masculino":
-  print("Ol·, Sr." , nome)
+  print("Ol√°, Sr." , nome)
 else:
-  print("Ol·, Sra." , nome)
+  print("Ol√°, Sra." , nome)
