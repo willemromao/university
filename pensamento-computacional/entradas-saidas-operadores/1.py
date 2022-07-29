@@ -1,4 +1,6 @@
-VL = float(input('Qual valor do litro de combustível? '))
+VL = float(input('Qual valor do litro de combustÃ­vel? '))
 D = float(input('Quanto deseja abastecer R$? '))
+
 L = D / VL
+
 print("\nQuantidade em litros: {:.2f}".format(L), "L")
