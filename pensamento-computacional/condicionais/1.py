@@ -11,5 +11,3 @@ if idade >= 18:
   print("Pode ter CNH")
 else:
   print("Não pode ter CNH")
-
-#teste
