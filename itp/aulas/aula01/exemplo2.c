@@ -15,7 +15,7 @@ int main(){
 	altura_metros = 0.3038 * altura_pes;
 	peso_quilos = 0.454 * peso_libras;
 
-	//Imprimir esses valores convertidos ma tela para o usuÃ¡rio
+	//Imprimir esses valores convertidos ma tela para o usuário
 	printf("Resultado\n");
 	printf("Altura em metros: %.2lf\n", altura_metros);
 	printf("Peso em quilos: %.2lf\n", peso_quilos);
