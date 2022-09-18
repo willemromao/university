@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main(){
+    //teste1
 
     char letra;
     int numero, i, conts, contc, contl, conta;
@@ -38,5 +39,3 @@ int main(){
 
     return 0;
 }
-
-//teste2
