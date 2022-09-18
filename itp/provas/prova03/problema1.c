@@ -30,9 +30,9 @@ int main(){
 
   //quando impar, linha do meio
   if(linhas%2 != 0){
-        for(int i =0; i<metade; i++)
+        for(int i=0; i<metade; i++)
           printf(" ");
-            printf("%c\n", letra);
+        printf("%c\n", letra);
   }
 
 
@@ -43,9 +43,14 @@ int main(){
           printf(" ");
         printf("%c", letra);
         //imprimir espaços em branco entre as letras
-        for(int j = 0; j < (metade-i-1)*2; j++)
-          printf(" ");
-        printf("%c\n", letra);
+        if(linhas%2 == 0){
+            for(int j = 0; j < (metade-i-1)*2; j++)
+            printf(" ");
+        }
+        else{
+            for(int j = 0; j < ((metade-i)*2)-1; j++)
+            printf(" ");
+        }
   }
 
   return 0;
