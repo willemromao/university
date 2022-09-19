@@ -1,7 +1,5 @@
 #include <stdio.h>
 
-int n;
-
 int ehPar(int n){
     
     if(n % 2 == 0){
@@ -15,6 +13,8 @@ int ehPar(int n){
 }
 
 int main(){
+
+    int n;
 
     scanf("%d", &n);
     
