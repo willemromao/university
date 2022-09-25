@@ -1,4 +1,4 @@
-//PROBLEMA: Triângulo de Floyd
+// TRIÂNGULO DE FLOYD
 
 #include <stdio.h>
 int main(){

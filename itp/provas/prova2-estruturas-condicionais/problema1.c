@@ -1,4 +1,4 @@
-//PROBLEMA: Separação numérica
+// SEPARAÇÃO NUMÉRICA
 
 #include <stdio.h>
 #include <string.h>

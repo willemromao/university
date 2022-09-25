@@ -1,4 +1,4 @@
-//PROBLEMA: Amigos um Intervalo
+// AMIGOS NUM INTERVALO
 
 #include <stdio.h>
 

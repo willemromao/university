@@ -1,4 +1,4 @@
-//PROBLEMA: Essa é fácil... né?
+// ESSA É FÁCIL... NÉ?
 
 #include <stdio.h>
 

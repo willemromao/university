@@ -1,4 +1,4 @@
-//PROBLEMA: Visor de Retângulos
+// VISOR DE RETÂNGULOS
 
 #include <stdio.h>
 

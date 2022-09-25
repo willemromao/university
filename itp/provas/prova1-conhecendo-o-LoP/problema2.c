@@ -1,4 +1,4 @@
-//PROBLEMA: Tá na validade
+// TÁ NA VALIDADE 
 
 #include <stdio.h>
 

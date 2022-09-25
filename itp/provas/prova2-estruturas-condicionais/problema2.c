@@ -1,4 +1,4 @@
-//PROBLEMA: Conversor de temperaturas
+// CONVERSOR DE TEMPERATURAS
 
 #include <stdio.h>
 

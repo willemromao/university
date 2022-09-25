@@ -1,4 +1,4 @@
-//PROBLEMA: Sistema de despacho de heróis
+// SISTEMA DE DESPACHO DE HERÓIS
 
 #include <stdio.h>
 

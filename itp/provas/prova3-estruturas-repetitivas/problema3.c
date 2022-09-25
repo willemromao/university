@@ -1,4 +1,4 @@
-//PROBLEMA: Prova de 100 metros (Atletismo)
+// PROVA DE 100 METROS (ATLETISMO)
 
 #include <stdio.h>
 

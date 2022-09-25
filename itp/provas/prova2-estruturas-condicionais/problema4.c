@@ -1,4 +1,4 @@
-//PROBLEMA: Bucho Burguer
+// BUCHO BURGUER
 
 #include <stdio.h>
 

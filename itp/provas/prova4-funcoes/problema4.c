@@ -1,4 +1,4 @@
-//PROBLEMA: Declarando Funções
+// DECLARANDO FUNÇÕES
 
 #include <stdio.h>
 

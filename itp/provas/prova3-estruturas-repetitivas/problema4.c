@@ -1,4 +1,4 @@
-//PROBLEMA: Contagem por Prova (Atletismo)
+// CONTAGEM POR PROVA (ATLETISMO)
 
 #include <stdio.h>
 

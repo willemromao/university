@@ -1,4 +1,4 @@
-//PROBLEMA: Imprimir X com uma letra
+// IMPRIMIR X COM UMA LETRA
 
 #include <stdio.h>
 

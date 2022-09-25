@@ -1,4 +1,4 @@
-//PROBLEMA: Letra popular
+// LETRA POPULAR
 
 #include <stdio.h>
 

@@ -1,4 +1,4 @@
-//PROBLEMA: Número perfeito (função)
+// NÚMERO PERFEITO (FUNÇÃO)
 
 #include <stdio.h>
 
