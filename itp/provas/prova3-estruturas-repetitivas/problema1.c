@@ -1,3 +1,5 @@
+//PROBLEMA: Imprimir X com uma letra
+
 #include <stdio.h>
 
 int main(){

@@ -1,3 +1,5 @@
+//PROBLEMA: Amigos um Intervalo
+
 #include <stdio.h>
 
 /*

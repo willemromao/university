@@ -1,3 +1,5 @@
+//PROBLEMA: Letra popular
+
 #include <stdio.h>
 
 int main() {

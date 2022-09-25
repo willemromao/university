@@ -1,3 +1,5 @@
+//PROBLEMA: Declarando Funções
+
 #include <stdio.h>
 
 int ehPar(int n){

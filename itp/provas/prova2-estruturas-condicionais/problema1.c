@@ -1,3 +1,5 @@
+//PROBLEMA: Separação numérica
+
 #include <stdio.h>
 #include <string.h>
 

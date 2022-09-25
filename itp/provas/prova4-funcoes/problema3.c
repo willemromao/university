@@ -1,3 +1,5 @@
+//PROBLEMA: Número perfeito (função)
+
 #include <stdio.h>
 
 int nperfeito(int X){
