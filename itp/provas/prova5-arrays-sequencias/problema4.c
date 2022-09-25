@@ -8,7 +8,7 @@ int scan(int n1, int n2) {
 }
 
 
-int main(void) {
+int main() {
   int tam, n, aux, s;
   scanf("%d", &tam);
   int vetor[tam];
