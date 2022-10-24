@@ -1,15 +1,21 @@
 #include <stdio.h>
 
-int main(){
-
+int main() {
+    int vetor[7];
     int i;
-    int vetor[100];
 
-    for(i=0; i<100; i++){
-        vetor[i] = 1;
+    /*for (i=0; i<3; i++) {
+        scanf("%d", &vetor[i]);
     }
 
-    printf("%d", vetor[99]);
+    for (i=0; i<3; i++) {
+        printf("%d ", vetor[i]);
+    }*/
+
+    for (i=0; i<7; i++) {
+        vetor[i] = 7;
+        printf("%d", vetor[i]);
+    }
 
     return 0;
 }

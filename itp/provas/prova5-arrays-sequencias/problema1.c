@@ -24,10 +24,10 @@ int main() {
   for (int k = 0; k < N; k++) {
     for (int l = 0; l < M; l++) {
       if (CN[k] != CM[l]){
-        printf("%d", (CN[k] != CM[l]));
+        
       }
       else if (CM[l] != CN[k]){
-        printf("%d", (CM[l] != CN[k]));
+        
       }
     }
   }
