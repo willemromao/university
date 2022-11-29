@@ -1,0 +1,44 @@
+Escreva um programa que lerá um mapa 6x6 de caracteres, no seguinte formato:
+
+v * * * < *
+
+* * * * * *
+
+* ^ * * > *
+
+* * * * * *
+
+* * * * ^ *
+
+* * * * * *
+
+
+Onde:
+
+* - locais livres para ele andar
+
+> - um soldado olhando para o leste
+
+< - um soldado olhando para o oeste
+
+^ - um soldado olhando para o norte
+
+v - um soldado olhando para o sul
+
+
+Após essa leitura, seu programa lerá um inteiro M, que indica a quantidade de movimentos que Lagartixa fará na simulação
+e dois inteiros com sua posição inicial X, Y, seguido de M letras:
+
+D - anda para o leste
+
+E - anda para o oeste
+
+C - anda para o norte
+
+B - anda para o sul
+
+
+Seu programa deve imprimir as seguintes mensagens de acordo com essas movimentações: “Movimento Invalido” se Lagartixa sair
+do mapa, “Freeze!” se lagartixa for visto por um guarda e “Like a Ninja...” se ele realizar todos os movimentos sem ser
+detectado. Caso ele seja avistado ou saia do mapa, o programa deve encerrar sua execução. Todos os guardas usam um grau 10 
+de miopia em cada olho, de forma que eles só veem Lagartixa se ele ficar bem na frente deles!
